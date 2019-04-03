@@ -2,5 +2,5 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-2a1epw)
 
-Tutor: Rahul Sir
+Tutor: Rahul Sir <br/>
 Learner: Chaitanya
